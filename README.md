@@ -1,2 +1,2 @@
 # ios-tinder
-tinder
+![](tinder.gif)
